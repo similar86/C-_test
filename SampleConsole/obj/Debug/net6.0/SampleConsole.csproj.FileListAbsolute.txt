@@ -1,0 +1,15 @@
+C:\Users\shimura\Documents\c#\SampleConsole\bin\Debug\net6.0\SampleConsole.exe
+C:\Users\shimura\Documents\c#\SampleConsole\bin\Debug\net6.0\SampleConsole.deps.json
+C:\Users\shimura\Documents\c#\SampleConsole\bin\Debug\net6.0\SampleConsole.runtimeconfig.json
+C:\Users\shimura\Documents\c#\SampleConsole\bin\Debug\net6.0\SampleConsole.dll
+C:\Users\shimura\Documents\c#\SampleConsole\bin\Debug\net6.0\SampleConsole.pdb
+C:\Users\shimura\Documents\c#\SampleConsole\obj\Debug\net6.0\SampleConsole.csproj.AssemblyReference.cache
+C:\Users\shimura\Documents\c#\SampleConsole\obj\Debug\net6.0\SampleConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shimura\Documents\c#\SampleConsole\obj\Debug\net6.0\SampleConsole.AssemblyInfoInputs.cache
+C:\Users\shimura\Documents\c#\SampleConsole\obj\Debug\net6.0\SampleConsole.AssemblyInfo.cs
+C:\Users\shimura\Documents\c#\SampleConsole\obj\Debug\net6.0\SampleConsole.csproj.CoreCompileInputs.cache
+C:\Users\shimura\Documents\c#\SampleConsole\obj\Debug\net6.0\SampleConsole.dll
+C:\Users\shimura\Documents\c#\SampleConsole\obj\Debug\net6.0\refint\SampleConsole.dll
+C:\Users\shimura\Documents\c#\SampleConsole\obj\Debug\net6.0\SampleConsole.pdb
+C:\Users\shimura\Documents\c#\SampleConsole\obj\Debug\net6.0\SampleConsole.genruntimeconfig.cache
+C:\Users\shimura\Documents\c#\SampleConsole\obj\Debug\net6.0\ref\SampleConsole.dll
