@@ -9,7 +9,7 @@ namespace Problemex2_4
     class Counter
     {
         //  カウント
-        private int count = 0;
+        private int count = 1;
         //  コンストラクタ
         public void Reset()
         {
