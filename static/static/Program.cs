@@ -8,6 +8,10 @@ namespace Problemex2_4
 {
     class Program
     {
+        static int TotalCount(int c1,int c2)
+        {
+            return c1 + c2;
+        }
         static void Main(string[] args)
         {
             Counter c1,c2;
@@ -22,7 +26,7 @@ namespace Problemex2_4
             c2.Increment();
             Console.WriteLine("c1のカウント数：" + c1.Count);
             Console.WriteLine("c2のカウント数：" + c2.Count);
-            Console.WriteLine("トータルのカウント数:" + (c1.Count + c2.Count));
+            Console.WriteLine("トータルのカウント数:" + TotalCount(c1.Count,c2.Count));
         }
     }
 }
