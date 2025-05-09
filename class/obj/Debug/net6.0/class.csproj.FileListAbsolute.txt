@@ -1,0 +1,15 @@
+c:\Users\shimura\Documents\c#\class\bin\Debug\net6.0\class.exe
+C:\Users\shimura\Documents\c#\class\bin\Debug\net6.0\class.deps.json
+C:\Users\shimura\Documents\c#\class\bin\Debug\net6.0\class.runtimeconfig.json
+c:\Users\shimura\Documents\c#\class\bin\Debug\net6.0\class.dll
+c:\Users\shimura\Documents\c#\class\bin\Debug\net6.0\class.pdb
+c:\Users\shimura\Documents\c#\class\obj\Debug\net6.0\class.csproj.AssemblyReference.cache
+c:\Users\shimura\Documents\c#\class\obj\Debug\net6.0\class.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\shimura\Documents\c#\class\obj\Debug\net6.0\class.AssemblyInfoInputs.cache
+c:\Users\shimura\Documents\c#\class\obj\Debug\net6.0\class.AssemblyInfo.cs
+c:\Users\shimura\Documents\c#\class\obj\Debug\net6.0\class.csproj.CoreCompileInputs.cache
+c:\Users\shimura\Documents\c#\class\obj\Debug\net6.0\class.dll
+c:\Users\shimura\Documents\c#\class\obj\Debug\net6.0\refint\class.dll
+c:\Users\shimura\Documents\c#\class\obj\Debug\net6.0\class.pdb
+C:\Users\shimura\Documents\c#\class\obj\Debug\net6.0\class.genruntimeconfig.cache
+C:\Users\shimura\Documents\c#\class\obj\Debug\net6.0\ref\class.dll
