@@ -1,0 +1,15 @@
+c:\Users\shimura\Documents\c#\sanfoundry\3_5\bin\Debug\net6.0\sanfoundry.exe
+C:\Users\shimura\Documents\c#\sanfoundry\3_5\bin\Debug\net6.0\sanfoundry.deps.json
+C:\Users\shimura\Documents\c#\sanfoundry\3_5\bin\Debug\net6.0\sanfoundry.runtimeconfig.json
+c:\Users\shimura\Documents\c#\sanfoundry\3_5\bin\Debug\net6.0\sanfoundry.dll
+c:\Users\shimura\Documents\c#\sanfoundry\3_5\bin\Debug\net6.0\sanfoundry.pdb
+c:\Users\shimura\Documents\c#\sanfoundry\3_5\obj\Debug\net6.0\sanfoundry.csproj.AssemblyReference.cache
+c:\Users\shimura\Documents\c#\sanfoundry\3_5\obj\Debug\net6.0\sanfoundry.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\shimura\Documents\c#\sanfoundry\3_5\obj\Debug\net6.0\sanfoundry.AssemblyInfoInputs.cache
+c:\Users\shimura\Documents\c#\sanfoundry\3_5\obj\Debug\net6.0\sanfoundry.AssemblyInfo.cs
+c:\Users\shimura\Documents\c#\sanfoundry\3_5\obj\Debug\net6.0\sanfoundry.csproj.CoreCompileInputs.cache
+c:\Users\shimura\Documents\c#\sanfoundry\3_5\obj\Debug\net6.0\sanfoundry.dll
+c:\Users\shimura\Documents\c#\sanfoundry\3_5\obj\Debug\net6.0\refint\sanfoundry.dll
+c:\Users\shimura\Documents\c#\sanfoundry\3_5\obj\Debug\net6.0\sanfoundry.pdb
+C:\Users\shimura\Documents\c#\sanfoundry\3_5\obj\Debug\net6.0\sanfoundry.genruntimeconfig.cache
+C:\Users\shimura\Documents\c#\sanfoundry\3_5\obj\Debug\net6.0\ref\sanfoundry.dll
